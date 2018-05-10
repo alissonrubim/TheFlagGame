@@ -1,0 +1,108 @@
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\csc.exe
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\csc.exe.config
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\csc.rsp
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\csi.exe
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\csi.rsp
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.AppContext.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.IO.FileSystem.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\vbc.exe
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\vbc.exe.config
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\vbc.rsp
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\VBCSCompiler.exe
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\TheFlagGame.dll.config
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\TheFlagGame.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\TheFlagGame.pdb
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Helpers.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Mvc.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Razor.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Deployment.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Razor.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Razor.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Deployment.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Razor.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Helpers.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\System.Web.Mvc.xml
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.csprojResolveAssemblyReference.cache
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.dll
+c:\users\alisson\documents\visual studio 2017\Projects\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.pdb
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\csc.exe
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\csc.exe.config
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\csc.rsp
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\csi.exe
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\csi.rsp
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.AppContext.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\vbc.exe
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\vbc.exe.config
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\vbc.rsp
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\TheFlagGame.dll.config
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\TheFlagGame.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\TheFlagGame.pdb
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Helpers.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Mvc.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Razor.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Razor.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Razor.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Webpages.Razor.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Helpers.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\System.Web.Mvc.xml
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.csprojResolveAssemblyReference.cache
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.csproj.CopyComplete
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.dll
+C:\Users\aliss\Desktop\TheFlagGame\TheFlagGame\obj\Debug\TheFlagGame.pdb

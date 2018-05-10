@@ -1,0 +1,52 @@
+﻿@model TheFlagGame.Models.ViewFlags
+
+@{
+    ViewBag.Title = "Flags";
+}
+
+<div class="float-center">
+    <h2>O jogo das Bandeiras</h2>
+    <h3>Bandeira @Model.CurrentGameIndex de 10</h3>
+</div>
+
+<table>
+    <tr>
+        <td rowspan="5">
+            <img src="@Url.Action("GetFlagImage", new { Index = Model.Answer.Id })" />
+        </td>
+    </tr>
+    @foreach (var flag in Model.Options)
+    {
+        <tr>
+            <td>
+                <button class="option btn btn-primary" value="@flag.Id">@flag.Name</button>
+            </td>
+        </tr>
+    }
+
+    <tr>
+        <td colspan="2">
+            <div id="go-next" class="display-none">
+                @if (Model.CurrentGameIndex == 10)
+                {
+                    <button id="btn-result" class="btn btn-success">Ver Resultado</button>
+                }
+                else
+                {
+                    <button id="btn-next" class="btn btn-primary">Próximo >></button>
+                }
+            </div>
+        </td>
+    </tr>
+</table>
+
+@section scripts {
+    <script>
+    $(document).ready(function () {
+        Game.FlagsInit({
+            NextUrl: "@Url.Action("Flags", new { Id = Model.CurrentGameIndex + 1 })",
+            ResultUrl: "@Url.Action("Result", "Game")"
+        });
+    });
+    </script>
+}

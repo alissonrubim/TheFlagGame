@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="float-center">
+    <h2>O jogo das Bandeiras</h2>
+    <div class="rulers">
+        <p>
+            <h3>Vamos descubrir se você sabe sobre as bandeiras do mundo!</h3>
+        </p>
+        <p>
+            Regras do jogo:
+            <ul>
+                <li>Serão 10 bandeiras para você acertar.</li>
+                <li>Você terá 4 opções de resposta, mas apenas uma está correta.</li>
+                <li>Cada bandeira te dará pontos diferentes, então seja esperto e tente não chutar!</li>
+                <li><b>Não tente roubar no jogo, nós saberemos se você alterar o número da bandeira na url.</b></li>
+                <li><b>Recarregar a página não te dará uma nova bandeira e nem alterará as opções existentes.</b></li>
+                <li><b>Uma vez iniciado o jogo, não é possível voltar, até que você termine todas as bandeiras.</b></li>
+            </ul>
+            <h4>Boa sorte! :)</h4>
+        </p>
+    </div>
+</div>
+
+<div id="btn-start">
+    <a href="@Url.Action("Flags", new { Id = 1 })">
+        <button class="btn btn-primary">Iniciar</button>
+    </a>
+</div>

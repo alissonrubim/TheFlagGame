@@ -1,0 +1,74 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.display-none {
+    display: none;
+}
+
+button.option {
+    margin-left: 50px;
+    width: 150px;
+}
+
+button#btn-next {
+    margin-top: 50px;
+    width: 150px;
+}
+
+button#btn-result {
+    margin-top: 50px;
+    width: 150px;
+}
+
+table {
+    height: 200px;
+}
+
+table img {
+    width: 280px;
+}
+
+#go-next {
+    text-align: right;
+}
+
+#btn-start {
+    padding: 40px;
+    text-align: center;
+
+}
+#btn-start button {
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+}
+
+input#EmailShare {
+    width: 270px;
+}
+
+.float-center {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.rulers ul {
+    text-align: left
+}

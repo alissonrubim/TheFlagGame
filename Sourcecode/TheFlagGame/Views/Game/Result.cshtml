@@ -1,0 +1,65 @@
+﻿@model TheFlagGame.Models.ViewResult
+
+@{
+    ViewBag.Title = "Result";
+}
+
+<div class="float-center">
+    <h2>O jogo das Bandeiras</h2>
+    <h3>Resultado</h3>
+</div>
+
+<h3>Sua pontuação: </h3>
+
+@for(var i=0; i<Model.PlayerFlags.Count(); i++)
+{
+    <div>- Bandeira @Html.Raw(i +1): Você escolheu @Model.PlayerFlags[i].ChoiseFlag.Name, e 
+        @if (Model.PlayerFlags[i].ChoiseFlag.Id == Model.PlayerFlags[i].CorrectFlag.Id)
+        {
+        <span>estava certo. (ganhou @Html.Raw(Model.PlayerFlags[i].CorrectFlag.Weight*10) pontos)</span>
+        }
+        else
+        {
+            <span>o correo seria @Model.PlayerFlags[i].CorrectFlag.Name. (deixou de ganhar @Html.Raw(Model.PlayerFlags[i].CorrectFlag.Weight*10) pontos)</span>
+        }
+    </div>
+}
+
+<div class="result">
+    <h3>
+        Total de pontos: @Model.TotalPoints
+    </h3>
+</div>
+
+<div class="share">
+    <div class="form-share display-none">
+        <fieldset>
+            <legend>Compatilhar</legend>
+
+            @using (Html.BeginForm("Share", "Game", FormMethod.Post, new { @id = "form-share-game" }))
+            {
+
+                <div class="form-group">
+                    <div class="group-label">
+                        @Html.LabelFor(model => model.EmailShare, "Email", htmlAttributes: new { @class = "control-label" })
+                    </div>
+                    @Html.EditorFor(m => m.EmailShare, new { htmlAttributes = new { @type = "email", @placeholder = "Digite o e-mail para compartilhar" } })
+                </div>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            }
+        </fieldset>
+
+    </div>
+    <button id="btn-share" class="btn btn-primary">Compartilhar</button>
+    <hr />
+    <a href="/Index"><button class="btn btn-success">Voltar ao início</button></a>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            Game.ResultInit();           
+        });
+    </script>
+}
+
